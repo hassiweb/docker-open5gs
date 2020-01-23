@@ -51,5 +51,5 @@ MIT
 
 ## Reference
 
-This repository is a simplified and updated version of [ravens](https://github.com/ravens)/[**docker-nextepc**](https://github.com/ravens/docker-nextepc) ****from NextEPC to Open5GS. I appreciate him and his great work! 
+This repository is a simplified and updated version of [ravens](https://github.com/ravens)/[**docker-nextepc**](https://github.com/ravens/docker-nextepc) from NextEPC to Open5GS. I appreciate him and his great work! 
 
