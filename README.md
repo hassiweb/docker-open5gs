@@ -15,7 +15,7 @@ A Docker recipe of [Open5GS](https://open5gs.org/open5gs/)
 
 ## Usage
 
-1. Create Docker images of Open5GS EPC functions using the source.  Here, I used v1.2.0 tagged branch.
+1. Create Docker images of Open5GS EPC functions using the source.  Here, I used the tagged branch of v1.2.0.
 ```
 git clone https://github.com/open5gs/open5gs.git
 cd open5gs/docker
@@ -51,5 +51,5 @@ MIT
 
 ## Reference
 
-This repository is a simplified and updated version of [ravens](https://github.com/ravens)/[**docker-nextepc**](https://github.com/ravens/docker-nextepc) ****from NextEPC to Open5GS. I appreciate him and his great work! 
+This repository is a simplified and updated version of [ravens](https://github.com/ravens)/[**docker-nextepc**](https://github.com/ravens/docker-nextepc) from NextEPC to Open5GS. I appreciate him and his great work! 
 
