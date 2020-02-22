@@ -136,6 +136,7 @@ services:
        -  NET_ADMIN
      devices:
        -  /dev/net/tun
+     privileged: true # if IPv6 enabled
      networks:
        core_network:
          ipv4_address: 192.168.26.40

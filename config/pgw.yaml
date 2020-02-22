@@ -22,7 +22,7 @@ pgw:
       #- addr: ::1
     ue_pool:
       - addr: 45.45.0.1/16
-      #- addr: cafe::1/64
+      - addr: cafe::1/64
     dns:
       - 8.8.8.8
       - 8.8.4.4
