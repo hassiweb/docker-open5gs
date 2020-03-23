@@ -11,6 +11,10 @@ A Docker recipe of [Open5GS](https://open5gs.org/open5gs/)
 - Software
   - Docker v18.09.7-ce
   - docker-compose v1.23.1
+  
+## Overview
+The overview of containers with default configurations in this repogitory is as follow:
+![Overview](https://github.com/hassiweb/docker-open5gs/blob/master/images/Open5GS-Overview.jpg)
 
 
 ## Usage
